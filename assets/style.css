@@ -1,0 +1,27 @@
+:root {
+--
+} 
+
+
+header {
+  width: auto;
+  height: 100px;
+  background-color: Green;
+}
+
+#button {
+ border: 2px solid gray;
+}
+#button:hover {
+  background-color: lightgoldenrodyellow;
+  transition-duration: 0.4s;
+}
+
+#title {
+    color: goldenrod;
+    margin-left: 5%;
+}
+
+#weather-cards {
+padding: 2%;
+}
